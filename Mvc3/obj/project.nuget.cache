@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbxKu7Ayj7Fsrh2lc3o+fIT5s1cpaX8JTSHEFlnZv23lxKDcejKHOAjhL2x2mT24cxrS7p4c2AI2i5kuvHxTwg==",
+  "success": true,
+  "projectFilePath": "/Users/juanlobos/Projects/Mvc3/Mvc3/Mvc3.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanlobos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/juanlobos/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/juanlobos/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
